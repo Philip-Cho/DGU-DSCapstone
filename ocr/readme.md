@@ -18,7 +18,7 @@
  
  ## [References]
  1. [API 세팅 및 사용법1](https://davelogs.tistory.com/36?category=928468)
- 2. [API 세팅 및 사용법1](https://ssamko.tistory.com/47)
+ 2. [API 세팅 및 사용법2](https://ssamko.tistory.com/47)
  3. [Google Introduction](https://cloud.google.com/vision/docs/handwriting?hl=ko)
  4. [API Setting](https://cloud.google.com/vision/docs/setup?hl=ko)
  5. [Flask 서버 Google API 연동](https://gist.github.com/WGierke/c2d00580104de4ea9f82bae7bc846292)
