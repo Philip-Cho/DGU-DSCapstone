@@ -1,0 +1,105 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	letter-spacing: -.5px;
+}
+
+html, body {
+	width: 100%;
+	height: 100%;
+	background-color: #f8f8f8;
+}
+
+.wrap {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.panel {
+	position: absolute;
+	top: 0px;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	font-size: 50px;
+	text-align: center;
+	color: #fff;
+}
+
+.one {
+    background-color: #cff09e;
+}
+
+.two {
+    background-color: #a8dba8;
+}
+
+.three {
+    background-color: #79bd9a;
+}
+
+.four {
+    background-color: #3b8686;
+}
+
+section > b {
+	display: block;
+	padding-top: 200px;
+	padding-bottom: 50px;
+}
+
+input[type='text'] {
+	background: none;
+	border: none;
+	border-bottom: solid 2px #474544;
+	color: #474544;
+	font-size: 1.000em;
+	font-weight: 200;
+	letter-spacing: 1px;
+	margin: 0em 0 1.875em 0;
+	padding: 0 0 0.875em 0;
+	text-transform: uppercase;
+	width: 50%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-ms-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+  }
+  
+  input[type='text']:focus, [type='email']:focus, textarea:focus {
+	outline: none;
+	padding: 0 0 0.875em 0;
+  }
+
+
+  #form_button {
+	background: none;
+	border: solid 2px #474544;
+	color: #474544;
+	cursor: pointer;
+	display: inline-block;
+	font-family: 'Helvetica', Arial, sans-serif;
+	font-size: 0.875em;
+	font-weight: bold;
+	outline: none;
+	padding: 20px 35px;
+	text-transform: uppercase;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-ms-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+  }
+  
+  #form_button:hover {
+	background: #474544;
+	color: #F2F3EB;
+  }
