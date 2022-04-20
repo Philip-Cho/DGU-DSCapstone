@@ -10,12 +10,14 @@
 - 현재는 로컬이미지로 테스트를 진행했으나, 구글 스토리지를 연동하여 사용할 것 (방법: Reference 참고)
 
 ## [과정]
-> while end:
->   이미지 캡처 
->   이미지 스토리지 저장 
->   OCR 
-> 프로그램 종료시 해당 영상을 들으며 캡처한 이미지 모두 삭제
- 
+```
+while end:
+  이미지 캡처 
+  이미지 스토리지 저장 
+  OCR process (image to text)
+프로그램 종료시 해당 영상을 들으며 캡처한 이미지 모두 삭제
+```
+
  ## [References]
  1. [API 세팅 및 사용법1](https://davelogs.tistory.com/36?category=928468)
  2. [API 세팅 및 사용법2](https://ssamko.tistory.com/47)
