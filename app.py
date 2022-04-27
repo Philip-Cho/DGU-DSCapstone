@@ -3,6 +3,7 @@ import socket
 
 import sum
 from sum import load_model,summary_text
+from down_movie import downYoutubeMp3
 
 app = Flask(__name__)
 models = list()
@@ -16,6 +17,10 @@ def summary():
     if request.method == 'POST':
         result = request.form
         movie_url = result.get('address')
+
+        # 동영상 다운
+        movie_title = downYoutubeMp3(movie_url)
+
 
         ## summary
         text = """
@@ -138,7 +143,8 @@ def summary():
         #요약문 생성
         sum_text = sum.summary_text(text,models[0])
 
-    return render_template('summary.html', movie_url=movie_url, sum_text = sum_text)
+    return render_template('summary.html', movie_url=movie_url,
+                           sum_text = , movie_title = movie_title)
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8888, debug=True)
