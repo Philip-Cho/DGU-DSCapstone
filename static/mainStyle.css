@@ -1,5 +1,4 @@
 body {
-    background-color: aliceblue;
     font-size: 1em;
     font-family: "나눔스퀘어";
     padding : 5%;
@@ -8,17 +7,17 @@ body {
 #video {
     display: inline-block;
     float : left;
-    width: 50%;
+    width: 49%;
+    margin-right : 2%;
 }
 
 #video > iframe{
-    display : black;
+    display : block;
 }
 
 #capture {
-    background-color: bisque;
     display: inline-block;
-    width : 50%;
+    width : 49%;
     height : 500px;
     overflow-y:scroll;
 }
@@ -33,26 +32,27 @@ body {
     margin-top: 10px;
     margin-right : 5%;
     float: left;
-    background-color: aquamarine;
 }
 
 #keywords {
     display: inline-block;
     width : 20%;
     margin-top: 10px;
-    background-color: darkgrey;
+    background-color: gray;
     padding-left: 5%;
 }
 
 #keywords > p {
-    margin : 5px;
+    margin-top : 5px ;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
 #whole_text {
     margin-top : 10px;
     width: 100%;
-    background-color: thistle;
     display: inline-block;
 }
 
@@ -60,6 +60,4 @@ body {
     display : block;
     margin-top : 10px;
     width: 100%;
-    background-color: coral;
-    /* display: inline-block; */
 }
