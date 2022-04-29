@@ -1,0 +1,448 @@
+
+This paper studied reliability of electrical system for electrical-hydraulic rotary drilling machines
+Reliability is the most important characterization of repairable systems
+Electrical systems have a vital role in any electrical-diesel or electrical-hydraulic machines
+As any failure in electrical system finally leads to stopping the machine, research on the reliability of this system is essential
+In this research reliability of electrical system of drilling machines in Sarcheshmeh copper mine in Iran had been modelled and analysed
+There were four hydraulic-electric machines in this mine (named A, B, C and D), that all of them had been selected for data collection and analysis of failure
+The results of statistical analysis showed that time between failures (TBF) data of this system follows the gamma distribution for machines A and C and weibull (3P) and exponential distributions for machines B and D, respectively
+Also, the results showed that with considering 90 % for preventive maintenance (PM) interval, after the first maintenance the reliability of this system will be improved by 5.23, 7.22, 3.62 and 5.26 % respectively for machines A, B, C and D.
+Canavan's disease is an autosomal recessive disorder caused by aspartoacylase deficiency
+The deficiency of aspartoacylase leads to increased concentration of N-acetylaspartic acid in brain and body fluids
+The failure to hydrolyze N-acetylaspartic acid causes disruption of myelin, resulting in spongy degeneration of the white matter of the brain
+The clinical features of the disease are hypotonia in early life, which changes to spasticity, macrocephaly, head lag, and progressive severe mental retardation
+Although Canavan's disease is panethnic, it is most prevalent in the Ashkenazi Jewish population
+Research at the molecular level led to the cloning of the gene for aspartoacylase and development of a knockout mouse for Canavan's disease
+These developments have afforded new tools for research in the attempts to understand the pathophysiology of Canavan's disease, design new therapies, and explore methods for gene transfer to the central nervous system. (J Child Neurol 2003;18:604—610).
+This paper designed a new all-optical nodes cross connect equipment(OXC),which has four 8×8 MEMS optical switching modules,two star couplers,three tunable filters,five wave division multiplexer/de-multiplexers and seven wavelength converters.This paper mainly researched on all-optical OXC spectral characteristics and noise performance and the simulation results show that the OXC directly provides all-optical cross connect,and also has the functions of broadcasting transmission,wavelength conversion and link upgrade etc,which is very applicable to 40Gb/s ultra-high speed optical communication system.
+Active galactic nuclei are extremely compact and highly energetic objects, and the mechanisms that produce their radiative emissions at short wavelengths are the subject of debate
+In his research commentary, Buckley discusses results presented in the same issue by [Mannheim][1] in which the acceleration of protons is suggested as the source
+Buckley puts the work in context with the alternative scenario involving an electron mechanism.
+
+ [1]: http://www.sciencemag.org/cgi/content/short/279/5351/684
+Polychlorobiphenyl (PCB) degradation usually occurs through reductive dechlorination under anaerobic conditions and phenolic ring cleavage under aerobic conditions
+In this paper, we provide evidence of nitrate reductase (NaR) mediated dechlorination of hexachlorobiphenyl (PCB-153) in Phanerochaete chrysosporium under non-ligninolytic condition and the gene involved
+The NaR enzyme and its cofactor, molybdenum (Mo), were found to mediate reductive dechlorination of PCBs even in aerobic condition
+Tungsten (W), a competitive inhibitor of this enzyme, was found to suppress this dechlorination
+Chlorine release assay provided further evidence of this nitrate reductase mediated dechlorination
+Commercially available pure NaR enzyme from Aspergillus was used to confirm these results
+Through homology search using TBLASTN program, NaR gene was identified, primers were designed and the RT-PCR product was sequenced
+The NaR gene was then annotated in the P. chrysosporium genome (GenBank accession no
+AY700576)
+This is the first report regarding the presence of nitrate reductase gene in this fungus with the explanation why this fungus can dechlorinate PCBs even in aerobic condition
+These fungal inoculums are used commercially as pellets in sawdust for enhanced bioremediation of PCBs at the risk of depleting soil nitrates
+Hence, the addition of nitrates to the pellets will reduce this risk as well as enhance its activity.
+The title compound, C16H13FO2, was prepared from 4-methoxyhypnone and 4-fluorobenzophenone by Claisen–Schmidt condensation
+All the bond lengths and bond angles are in normal ranges
+The dihedral angle formed by the two benzene rings is 33.49 (2)°
+The crystal packing is stabilized by intermolecular C—H⋯O hydrogen-bonding interactions.
+Ulkemizde gun gectikce sayisi artan universitelerin yerleske sistemiyle yapilanmalari kacinilmazdir
+Dolayisiyla akademik ve idari tum birimler, yerleske catisinda toplanmaktadir
+Bu nedenle buyuk butceli yatirimlarla olusturulan yerleskelerin veri tabaninin olusturulmasi ve arazi kullanimlarinin belirlenmesinin onemi her gecen gun artmaktadir
+Bu baglamda son teknolojilerin kullanimini gerektiren uzaktan algilama ve cografi bilgi sistemleri yardimiyla dogal ve kulturel tum alanlarda oldugu gibi yerleskelerin alan kullanimlari/arazi ortululugunun saptanmasi mumkundur
+Bu calismada 50 cm yersel cozunurluge sahip olan Worldwiev uydu goruntusu kullanilarak yerleskenin alan kullanim/arazi ortusunun saptanmasi amaclanmistir
+Bu dogrultuda calismada bu amaci gerceklestirmek icin 2 temel hedef belirlenmistir; 1) “Maksimum benzerlik” yontemiyle alanin alan kullanim/arazi ortusunun siniflamasinin yapilmasi, 2) Siniflandirilan goruntunun kappa istatistik yontemiyle dogruluk analizinin yapilmasi
+CBS ve goruntu isleme sistemi, siniflama ve dogruluk analizi ERDAS Imagine 9,1 yazilimi yardimiyla gerceklestirismistir
+Uygulamada 2014 tarihli Worldview uzaktan algilama verisi ve topografik haritalar kullanilmistir
+Siniflama sonucunda bina, yol, havuz, spor alani, amfi, yesil alan ve acik alan olmak uzere yedi sinif belirlenmistir
+Dogruluk siniflamasinda 146 piksel kullanilmistir
+Toplam siniflama dogrulugu %93.84 ile Kappa istatistigi 0.9210 cikmistir
+A cellulose II phosphate ester which may be partially reacted with carbamide; and a metal-adsorbing material using the cellulose II phosphate ester
+The cellulose II phosphate ester can adsorb a metal ion in a solution with good efficiency, and thus, can be utilized in a metal adsorbing material and in a metal adsorbing apparatus.
+Traffic congestion has greatly affected not only the nation’s economy and environment but also every citizen’s quality of life
+A recent study shows that every American traveler spent an extra 38 hours and 26 gallons of fuel per year due to traffic congestion during the peak period
+Of this congestion, 10% is attributable to improper operations of traffic signals
+Surprisingly, more than a half of all signalized intersections in the United States need to be re-optimized immediately to maintain peak efficiency
+Even though many traffic signal control systems have been upgraded from pre-timed controllers to actuated and adaptive controllers, the traffic signal optimization software has not been kept current
+For example, existing commercial traffic signal timing optimization programs including SYNCHRO and TRANSYT-7F do not optimize advanced controller settings available in the modern traffic controllers including minimum green time, extension time, and detector settings
+This is in part because existing programs are based on macroscopic simulation tools that do not explicitly consider individual vehicular movements
+To overcome such a shortcoming, a stochastic optimization method (SOM) was proposed and successfully applied to a signalized corridor in Northern Virginia
+This study presents enhancements made in the SOM and case study results from an arterial network consisting of 16 signalized intersections
+The proposed method employs a distributed computing environment (DCE) for faster computation time and uses a shuffled frog-leaping algorithm (SFLA) for better optimization
+The case study results showed that the proposed enhanced SOM method, called SFLASOM, improved the total network travel times over field settings by 3.5% for Mid-Day and 2.1% for PM-Peak
+In addition, corridor travel times were improved by 2.3% to 17.9% over field settings
+However, when the new SOM timing plan was compared to the new field timing plan implemented in July 2008, the improvements were marginal, showing slightly over 2% reductions in individual vehicular delay.
+OBJECTIVE
+The purpose of this article is to investigate a noninvasive method for quantifying diffuse myocardial fibrosis with cardiac MRI in patients with dilated cardiomyopathy and hypertrophic cardiomyopathy.
+
+
+MATERIALS AND METHODS
+We performed cardiac MRI on 35 patients (24 patients with dilated cardiomyopathy and 11 patients with hypertrophic cardiomyopathy) and 10 control subjects, on a clinical 1.5-T cardiac MRI scanner
+Delayed hyperenhancement images were obtained 15 minutes after injection of a bolus of gadopentetate dimeglumine (0.2 mmol/kg), to identify fibrosis using an inversion recovery gradient-echo technique (inversion time scout sequence: TR, 20.8 milliseconds; TE, 1.3 milliseconds; inversion time, individually determined to null the myocardial signal [range, 85-800 milliseconds])
+An inversion time mapping sequence was used to calculate the contrast-enhanced myocardial inversion time at the null point of a single midventricular slice as an index of diffuse fibrosis.
+
+
+RESULTS
+The mean contrast-enhanced myocardial inversion time at the null point was significantly shorter in the patient group than the control group (343. 7 +/- 27.9 vs 390.4 +/- 19.3 milliseconds; p < 0.0001)
+In the patient group, the mean contrast-enhanced myocardial inversion time at the null point was shorter in patients with dilated cardiomyopathy than in patients with hypertrophic cardiomyopathy (337.0 +/- 29.6 vs 358.6 +/- 17.1 milliseconds, p = 0.02)
+In the dilated cardiomyopathy group, contrast-enhanced myocardial inversion time at the null point was significantly related to the left ventricular ejection fraction (r = 0.52; p = 0.01)
+However, in the hypertrophic cardiomyopathy group, contrast-enhanced myocardial inversion time at the null point had only a small positive correlation with the left ventricular ejection fraction (r = 0.27; p = 0.41).
+
+
+CONCLUSION
+Contrast-enhanced myocardial inversion time at the null point is shorter with myocardial fibrosis in patients with dilated cardiomyopathy and hypertrophic cardiomyopathy
+In dilated cardiomyopathy, contrast-enhanced myocardial inversion time at the null point is inversely related to the severity of dilated cardiomyopathy.
+Numerical analysis of the hyperelastic behavior of polymer materials has drawn significant interest from within the field of mechanical engineering
+Currently, hyperelastic models based on the energy density function, such as the Neo‐Hookean, Mooney‐Rivlin, and Ogden models, are used to investigate the hyperelastic responses of materials
+Conventionally, constants relating to materials were determined from experimental data by using global least‐squares fitting
+However, formulating a constitutive equation to capture the complex behavior of hyperelastic materials was difficult owing to the limitations of the analytical model and experimental data
+This study addresses these limitations by using a system of neural networks (NNs) to design a data‐driven surrogate model without a specific function formula, and employs molecular dynamics (MD) simulations to calculate the massive amount of combined loading data of hyperelastic materials
+Thus, MD simulations were used to propose an NN constitutive model for hyperelasticity to derive the constitutive equation to model the complex hyperelastic response
+In addition, the probability distributions of the numerical solutions of hyperelasticity are used to characterize the uncertainty of the MD models
+These statistical finite element results not only present numerical results with reliability ranges but also scattered distributions of the solution obtained from the MD‐based probability distributions.
+The effect of vector potential on the phase of a quantum wavefunction was brought out fifty years ago, and is termed as AharonovBohm (AB) effect [1]
+The effect is described in terms of the shift in the interference pattern created by a charged particle moving outside a solenoid or flux line
+In a remarkable experiment, this effect was experimentally verified in precise quantitative terms [2]
+There is an enormous literature on basic questions and effects related to this effect (see e.g. [3])
+Yang has unified electromagnetic and gravitational AB effects [4]
+As quoted in a recent article [5], “Aharonov stresses that the arguments that led o the prediction of the various electromagnetic AB effects apply well to any gauge-invariant quantum theory
+In the standard model of particle physics, the strong and weak nuclear interactions are also described by gauge-invariant theories.” This work presents AB effect presented in the ground state of deuteron, thus it might well be called “nuclear AB effect”
+The work is based on the study of ground state wavefunction of deuteron to O(~) which, in principle, can be extended to all orders [6]
+Beginning with the coupled equations describing the S1 state, u(r) and D1 state, w(r) [7], it was shown that Hamiltonian for the deuteron may be written as
+The high bright X ray can be g enerated by the back Compton scattering through the laser with electron beam , and the wavelength is tunable by changing the electron energy
+Because of the low scattering chance of the scattering photon with the electron ,it is difficul t to acquire the high bright radiation
+The high power density laser and the hi gh bright electron beam is required to obtain the high bright radiation
+In th e experiment, the electron beam of CAEP RF photoinjector together with 30MeV lin ac and the high power density laser in Nd:YAG laser cavity will be used, the rad iation wavelength is 0.07—0.14nm, the radiation ability expected to be about 2 .5×10 11 photons per second, and the radiation wavelength can be tuned by changing the electron energy.. 8.40) and 0.26 (0.00–1.83) pg/mL for normal and intrauterine growth retardation groups, respectively ( P 1⁄4 0.85, Mann Whitney U test)
+We believe that these findings, together with those from the previous studies, suggest that while IL-10 may well have important anti-inflammatory (Th2-type) roles at the maternal–fetal interface in pregnancy and that while placental and decidual production of IL-10 may be impaired in association with preeclampsia and intrauterine growth retardation, these possibilities are not reflected in circulating maternal serum levels in pregnancies complicated by either pre-eclampsia or intrauterine growth retardation
+The inability to detect consistently IL-10 in maternal serum in normal and complicated pregnancies, despite using highly sensitive assays, suggests that the potential use of IL-10 as a clinical diagnostic marker in pregnancy should be approached with caution.
+Tujuan penelitian ini adalah untuk meningkatkan penggunaan tepung pisang ambon sebagai 
+bentuk diversifikasi produk olahan pangan berbahan baku pisang, untuk mengetahui pengaruh jenis tepung 
+pisang ambon dan waktu pemanggangan terhadap karakteristik banana flakes. 
+Metode penelitian yang dilakukan pada penelitian pendahuluan yaitu analisis kandungan gula dan 
+pati metode luff schoorl
+Metode penelitian untuk penelitian utama meliputi respon fisik dan respon kimia. 
+Respon fisik terdiri dari uji water absorps indeks dan uji water soluble indeks sedangkan respon kimia yaitu 
+kadar air metode gravimetri. 
+Rancangan percobaan yang digunakan adalah Rancangan Acak Kelompok (RAK) dengan 2 faktor 
+yaitu faktor jenis tepung pisang ambon dan faktor waktu pemanggangan
+Dengan pola factorial 3 x 3 dengan 
+jumlah ulangan sebanyak 3 kali dan rancangan perlakuan terdiri dari 27 perlakuan
+Hasil analisis tepung 
+pisang matang yaitu kadar gula 27,26% dan kadar pati 60,37%, hasil analisis tepung pisang mengkal yaitu 
+kadar gula 6,17% dan kadar pati 68,17%
+Hasil penelitian menunjukkan jenis tepung pisang ambon dan 
+waktu pemanggangan berpengaruh terhadap karakteristik water absorps index, water soluble index, dan 
+kadar air
+Perlakuan terpilih dari penelitian utama adalah perlakuan a 
+1 
+b 
+3 
+ (tepung pisang matang waktu 
+pemanggangan 25 menit) dengan kadar protein 12,09%, kadar karbohidrat 73,23%%, kadar lemak 5,52%, 
+kadar air 2,86%, kadar abu 3,72%, kadar serat kasar 2,57%. 
+ 
+Kata Kunci : Flakes, Pisang Ambon, Jenis Tepung Pisang Ambon, Waktu Pemanggangan
+Mobile Computing System is a distributed system where one of the processes is known as Mobile Node
+The Mobile Computing System have some limitations such as Low Bandwidth of wireless network, lack of stable storage, mobility handling, disconnection of mobile nodes (MNs) and limited battery life., In this paper we have analyzed various handoff schemes / algorithms
+As we know movement based scheme takes a checkpoint only after a threshold, when mobility handoffs has been exceeded
+The main issue regarding wireless and mobile computing technology is handoff, because of limited coverage of mobile support station (MSS)
+When a mobile node (MN) moves from current MSS to another MSS, then it needs to perform a handoff
+This results in data loss and communication interruption
+Many researchers worked to minimize this problem but it still remains a matter of research
+In this paper, we suggest that AODV protocol is among the effective solution of the handoff failures in movement based asynchronous mobile computing environment.
+Kampung figures prominently in a structure of feeling that contrasts rural and urban in Malaysia
+While rural to urban migration and urbanization have proceeded apace in Malaysia, the kampung continues to play an important role in the lives of the country's Malay community and in Malaysia's national cultural geography
+This article examines the place of the kampung in that cultural geography as it is related in the narratives of return migrants to the kampung of Sungai Siputeh in northern peninsular Malaysia
+The article argues that return migrants are existentially engaged in fashioning their own lives in relationship to this discourse as they move between rural and urban spaces
+Moreover, within rural Malaysia, their narratives shape the cultural geography of rural subjects
+Anthropologists are abandoning villages in Southeast Asia and around the world
+Although village-level fieldwork continues to be the archetype (or at least stereotype) of socio-cultural anthropological investiga
+This study was aimed to devise a theoretical formula for the mid-age of incidence (MAI) from the prevalence of age groups and to confirm its application
+The formula was devised using the concept of lost years of health and then simulated
+In the inhabitants’ survey, MAI was calculated from the prevalence of liver disease in the areas, and the main cause of disease was analyzed between those areas where MAI was lower than 2.5% of the distribution with significantly high prevalence (HL group) and those areas where MAI was higher than 2.5% of the distribution with significantly high prevalence (HU group)
+In the computer simulation, MAI was not much different or a little lower than the mid-age of occurrence
+In addition, the sum of the incidence rates in the 1-year age groups approximately corresponded to the maximum prevalence within the age groups in the simulation
+In the HL group, the main cause of liver disease was alcoholic liver injury; in the HU group, one cause was type C hepatitis, whereas for many others, it was advanced alcoholic liver injury
+Thus, the HU and t HL groups were confirmed as active and quiescent areas, respectively
+Investigating the cause or stage is considered to be useful in future studies. 
+ 
+   
+ 
+ Key words: Mid-age of incidence (MAI), Lost years of health, chronic disease, prevalence, age specific prevalence.
+The first part (on orthogonal designs and systems of orthogonal designs) outlines some orthogonal design theory
+It is recalled that the theory of Clifford Algebras may be used to relate the possible orders of amicable pairs of orthogonal designs to the numbers of variables involved
+A similar approach to the problem of relating order to numbers of variables for more complex constructs (such as amicable triples and product designs) leads to generalizations of Clifford Algebras.
+In many applications, especially in cancer treatment and diagnosis, investigators are interested in classifying patients into various diagnosis groups on the basis of molecular data such as gene expression or proteomic data
+Often, some of the diagnosis groups are known to be related to higher or lower values of some of the predictors
+The standard methods of classifying patients into various groups do not take into account the underlying order
+This could potentially result in high misclasiffication rates, especially when the number of groups is larger than two.
+In this work we made teeth ablation experiments using a laser microprocessing set-up coupled with an amplified femtosecond laser system with 200 fs pulse duration
+The experiments were performed at different laser fluences, from 0.21 J/cm2 up to 64 J/cm2
+Structures with computer controlled geometries were created as single round craters, large square craters shapes, and parallel lines
+Irradiation was made in single-pulse, multi-pulse, and quasi-continuous (2 kHz) mode at different laser scanning speeds
+Characterization of ablated structures was made by optical microscopy and scanning electron microscopy
+Ablation areas images show crystalline and regular structures
+There are not evidences of material burning under 64 J/cm2
+Generated structures are reproducible, dependent on dental quality
+Enamel ablation threshold under 3 J/cm2 was measured
+Dimensions of the ablated structures are of tens of micrometers, depending on beam fluence, focusing optics, and material hardness
+When a 10x microscope objective was used, craters with about 5-7 micrometers were obtained
+Better resolution of the structures can be obtained down to about 1 micron, however more difficult is to observe and work with such ablated structures
+Femtosecond laser ablation demonstrates to be a promising method for teeth treatment due to its advantages: ablation precision and no collateral damages.
+The arrangement of the text follows the general organization of the textile industry in that sections are devoted to the following phases: (a) Rayon Staple on the Cotton Sytem, ( b ) the Worsted System, and (c) the Woolen System; Rayon from Yarn to Fabric; Standard Rayon Fabric Constructions ; Rayon in Knitting Mills; and Rayon Dyeing and Finishing
+This organizational approach has naturally resulted in some duplication of material, but it does have the advantage of furnishing the reader of a given section complete information on each subject
+A few errors are apparent
+For example, on page 26, the spinning systems illustrated have their titles reversed (H. & B. illustration is really that for SacoLowell)
+Also, on page 86, the dimensions given for the cake insert are actually those for a cube, which is not the shape of the flat rectangular insert
+On page 99, &dquo;cones&dquo; is used for &dquo;cakes.&dquo; Some improvement could be made if another edition were to be issued
+For example, a uniform standard of abbreviations throughout the book and. 본 연구는 4차 산업혁명 시대에 대응한 조경학 분야의 적용방안을 살펴보는데 목적이 있으며, 4차 산업혁명의 동향을 분석하고 이에 따른 조경학 분야에의 적용방안을 모색한 결과는 다음과 같다.
+첫째, 4차 산업혁명은 디지털 기술을 기반으로 하는 혁신적 변화를 의미하며 지능정보기술 기반 가치창출을 추구하고 있으며, 기술혁신을 통한 지속적 성장이 이루어지고 있다. 이에 조경학 분야에서도 많은 양의 정보를 취합하고 이를 창의적으로 재가공할 수 있는 전문성이 요구되며, 시대적 변화에 유연하게 대처할 수 있는 전략 마련이 요구된다 하겠다.
+둘째, 조경학 분야에서의 4차 산업혁명 대응 기술적용 현황을 살펴본 결과, 드론을 활용한 측량 기술이나 글로벌 맵핑 등의 정밀 분석결과 구축, 3차원 설계 시뮬레이션, VR 등이 일반화되고 있으며, 전통조경 분야에서는 조경공간 구성요소에 대한 정밀 실측자료 구득에 노력을 기울이고 있다.
+셋째, 향후 4차 산업혁명 시대에 따른 조경학 분야의 적용방안은 기술 분야에서 정밀기술의 보급 및 프로그램의 보급, 공유 플랫폼 제공 등이 요구되며, 이에 대해 제도적으로 표준화된 프로세스가 구축되어야 할 것이다. 또한 기술개발을 위한 경제적 지원과 전문인력 양성을 위한 교육적 노력이 지속되어야 한다.
+Equality and inclusion are part of the strategic plans of the universities
+In particular, the Spanish government has established that the universities should have equality units to apply the principle of equality between women and men
+These units are in charge of the definition of the Equality Plans
+These Plans vary from one university to another, but they are focused on including the gender perspective in the university’s different activities
+Teachers’ specific training about gender mainstreaming should be one of the key actions to foster equality in higher education
+This work presents findings on participants of a course about "Introduction of the gender perspective in the University teaching" developed in the University of Salamanca in June 2020
+The document describes the organization and structure of the course with a particular focus on the adaptation to online format due to the COVID-19 crisis
+Furthermore, we share some of the results about the participants’ perceptions and opinions on the inclusion of nonsexist language in Spanish and their educational practices.
+Alan Bennett 1934—English playwright
+Guidelines are in the air
+There are guidelines now for nearly everything including HCT
+Although guidelines can be very useful the ‘law of unintended consequences’ may come into play
+Guidelines should be short and should clearly explain that they cannot cover all clinical situations and are merely to help in coming to a rational decision
+They are certainly useful in planning strategy
+For example, we decided, a number of years ago, to carry out five allogeneic HCT for renal cell carcinoma and evaluate the results
+Following evaluation, we stopped
+I should confess to taking part in the publication of a 20-page guideline for the investigation and treatment of a certain syndrome
+Useless
+Perhaps a chapter in a book but definitely not a guideline
+A recent example is ASH guidelines for management of venous thromboembolism: prophylaxis for hospitalised and nonhospitalised patients [1]
+This guideline was 20 pages long, contained 174 references and concluded: the limitations of these guidelines are inherent in the low or very low certainty in the evidence we identified for many of the questions! A prominent surgeon in Ireland told me that in his view the next generation of doctors will be unable to make a clinical decision without consulting guidelines
+Unfortunately, members of the judiciary in some countries, do not seem to understand this and think that guidelines are rules which cannot be broken
+Could it be that guidelines stymie the ability to think clearly? A colleague (she is head of a large HCT unit) said recently that while on a ward round with her staff she encountered a critically ill post HCT patient
+Turning to her staff, she asked: ‘what would you do’? The answer from all staff members came loudly and clearly: ‘consult the guidelines’, ‘discuss the case at the next MDT’ (multidisciplinary conference)’
+These were trainees in a large university teaching hospital! My colleague believed that a decision needed to be made immediately and that the answer would probably not be found in the guidelines
+In Henry Hemmings book ‘Our Man in New York’: ‘Charles Lindberg (not everyone’s favourite person) was quoted as saying; ‘forming committees was one of the greatest of American fallacies’ [2]
+Serendipity and common sense are two expressions that doctors do not like but we would not have penicillin or the discovery of Helicobacter Pylori as a cause of peptic ulcer disease/gastric cancer without serendipity
+Some people [2] believe that observational databases combined with expert opinion provide reliable and effective ways of determining effective new therapies in the HCT setting
+Some people also believe that evidence is objective
+Of course, it is subjective and depends on the way it is collected and presented
+Otherwise the world would not need lawyers
+The diagnosis and treatment of acute graft-versus-host disease is a good example of the very limited value of guidelines
+In the 2019 EBMT handbook [3] Holler, Greinix and Zeiser say that: ‘so far no single agent has shown superiority of results when combined with corticosteroids for first line treatment of acute Graft versus Host Disease (aGvHD)’ yet many different approaches to the treatment of aGvHD are found in established HCT units
+In a recent interview [4] Professor James Ferrara said: ‘we need a simpler system of grading and staging of GvHD
+It was so confusing that we asked our pathologists to stop grading the biopsies’
+So, there are many clinical situations in HCT units in which the decisions reached will vary between hospitals, and guidelines, if they exist, are of little value
+What about wine making? Yes, there are recommendations but there are many variations in fermentation strategies, from the use of cement, stainless steel, wood, and more latterly the use of the cement ‘egg’
+The cement egg * Shaun R
+McCann shaunrmccann@gmail.com
+Background: Endogenous internal controls (‘reference’ or ‘housekeeping’ genes) are widely used in real-time PCR (RT-PCR) analyses
+Their use relies on the premise of consistently stable expression across studied experimental conditions
+Unfortunately, none of these controls fulfills this premise across a wide range of experimental conditions; consequently, none of them can be recommended for universal use
+Methods: To determine which endogenous RT-PCR controls are suitable for analyses of renal tissues altered by kidney disease, we studied the expression of 16 commonly used ‘reference genes’ in 7 mildly and 7 severely affected whole kidney tissues from a well-characterized cystic kidney disease model
+Expression levels of these 16 genes, determined by TaqMan® RT-PCR analyses and Affymetrix GeneChip® arrays, were normalized and tested for overall variance and equivalence of the means
+Results: Both statistical approaches and both TaqMan- and GeneChip-based methods converged on 3 out of the 4 top-ranked genes (Ppia, Gapdh and Pgk1) that had the most constant expression levels across the studied phenotypes
+Conclusion: A combination of the top-ranked genes will provide a suitable endogenous internal control for similar studies of kidney tissues across a wide range of disease severity.
+Se han estudiado morteros de cal de nueva factura con el objetivo de utilizarlos en la restauracion del patrimonio arquitectonico
+Mediante la preparacion de probetas estandar, se han analizado muestras de morteros de dos cales aereas (CL90), cal hidraulica y cal dolomitica
+Los ensayos de composicion, quimicos y mineralogicos, de resistencia mecanica a flexion y a compresion se han llevado a cabo a 3, 7 28, 91, 182 y 365 dias
+Se han evaluado diversos factores que afectan al comportamiento mecanico: Tiempo de curado, dosificacion, caracteristicas del arido y porosidad
+Los morteros de cal aerea precisan largos periodos para exhibir sus maximas resistencias
+Una mayor proporcion de conglomerante genera mejores resistencias y un aumento paralelo de la porosidad, hasta el limite de 2:1
+Los aridos de naturaleza caliza, de machaqueo, han ofrecido los mejores comportamientos mecanicos
+La estructura porosa del material, estudiada por porosimetria de intrusion de mercurio, se ha correlacionado con las resistencias, de manera que una fase continua de matriz, junto con un mejor acceso de CO2 al sistema, ha contribuido a incremento de resistencia
+En cales hidraulicas, el comportamiento es analogo aunque las cifras son mas altas: En las primeras fases el mortero fragua rapidamente por la hidratacion de C3S
+Despues se estabiliza a edades intermedias, y edades avanzadas las resistencias repuntan por la carbonatacion y por la hidratacion de C2S
+Los morteros dolomiticos tienen un comportamiento parecido a los calizos, pero con posible concurrencia de una reaccion de dedolomitizacion (ACR)
+Se ha estudiado Tambien el proceso de apagado de cal dolomitica sometidas a distintas condiciones, valorandose la velocidad de extincion de oxidos y de carbonatacion de hidroxidos, asi como las fases formadas
+El CaO se extingue rapidamente, no asi el oxido de magnesio, muy dependiente del tamano de particula d
+SummaryThree indices of available P were evaluated with 20 mainly calcareous Lebanese soils using wheat (Triticum aestivum L.) and tomato (Lycopersicum esculentum L.) in the greenhouse
+Both the NaHCO3-and anion exchange resin-extractable P were significantly correlated with P uptake
+The relationship for NaOH−Na2C2O4 was not significant
+Langmuir isotherm and actual sorption parameters were also poorly related to uptake
+In general, soil properties were not significantly related to extractable P or crop uptake
+Sequential inclusion of selected soil properties with test values only slightly improved the multiple correlation coefficients.
+The contemporary epoch of socio-economical globalization and the latent scarcity of natural and energy resources, associated to adverse climatic conditions periods, present new challenges to engineers in design preparation, works execution, operation and management of public utilities, particularly in the treatment, transportation and distribution of water.
+The literature has reached the consensus that pro-cyclical R&D is inconsistent with the Schumpeterian view that predicts innovation to be concentrated during downturns
+However, authors disagree on whether liquidity constraint is the explanation
+Based on an industry panel of R&D, output, and finance, we document vast differences in industry R&D’s cyclicality and find liquidity constraint serves as a useful but not the only explanation
+Our results suggest the Schumpeterian view does capture important aspect of innovation’s cyclical behavior, but its potential consistency with data is masked by many factors including liquidity constraint.
+Presented herein is a procedure for arriving at an optimal design of a homogeneous earth dam laid on an impervious foundation and provided with a drain
+The procedure, heavily dependent on variably saturated flow modeling, involves optimizing a multiobjective function comprising a weighted summation of four objective functions, viz., the dam section area, seepage discharge, wetted area of the dam section and the drain area
+The design variables considered in the optimization are the upstream and downstream slopes and the drain dimensions
+The optimization is carried out subject to the constraints ensuring safe upstream and downstream slopes and sufficient distance between the free surface and the downstream face
+Two of the objective functions (viz., the seepage discharge and the wetted area) and the constraints are implicit functions of the design variables
+Their values are obtained by employing a numerical model of two-dimensional (vertical plane) variably saturated flow in a homogeneous earth dam
+Optimization, conducted by the sequential unconstrained minimization technique procedure is preceded by several runs of the model for various combinations of the design variables
+The discrete values of the implicit functions so generated are invoked during optimization to compute the implicit objective functions and constraints
+The results are presented in the form of nondimensional design tables/curves
+The design procedure is illustrated with the help of few examples.
+Introdução: a produção científica nacional sobre a Covid-19 tem papel imediato na formulação de políticas de enfrentamento da doença e na orientação de decisões clínicas
+Objetivo: identificar e caracterizar a produção científica sobre assuntos relacionados à Covid-19 em revistas nacionais a partir de artigos publicados entre 1º de dezembro de 2019 e 2 de maio de 2020
+Método: revisão de escopo, cuja busca por artigos ocorreu na Coleção SciELO Brasil e nos sítios eletrônicos das revistas Visa em Debate e Ciência & Saúde Coletiva
+O banco de dados validado foi submetido a uma análise quantitativa simples para fornecer resumos numéricos das características de interesse da literatura incluída na revisão
+Resultados: foram incluídos 58 (20,8%) artigos provenientes de 22 revistas nacionais
+O maior número de artigos proveio das revistas que desenvolveram opções rápidas de publicação ou vinham adotando um modelo de publicação de fluxo contínuo (n = 45;77,6%)
+A distribuição dos artigos em sete categorias de pesquisa foi, nesta ordem: Comentário (n = 43;74,1%), Estudo descritivo (n = 8;13,8%), Revisão da literatura (n = 6;10,4%) e Estudo analítico (n = 1;1,7%)
+Constatou-se apenas uma revisão sistemática e o estudo analítico publicado foi do tipo ecológico
+O mês de abril concentrou 86,2% dos artigos, cujo maior pico, compreendendo o período estudado, ocorreu em 9 de abril, com 8 publicações
+Dos 58 artigos, o “Isolamento social, saúde mental e outros aspectos relacionados a comportamentos sociais” foi o tema mais prevalente (n = 14;24,1%)
+Conclusões: Esta revisão de escopo produziu um mapa da produção científica no Brasil sobre a Covida-19
+Nesta produção, há lacunas importantes, principalmente, no que tange aos ensaios clínicos randomizados e estudos de coorte, que precisam ser preenchidas com a realização de pesquisas.
+Intelligence in an ITS authoring system could rely on content-based engineering of instructional design (ID) knowledge, i.e. based on principles such as conceptualization, standardization and theory-awareness
+An ontology-based architecture with appropriate ontologies has been proposed for a theory-aware ITS authoring system
+Ontological engineering (OE) as a collaborative process jointly conducted by an OE expert and an ID expert is presented as a step on a roadmap towards a theory-aware ITS authoring system.
+Lighting is one of the important factors in designing space to support user comfort and safety
+To carry out all activities that are in a room, an adequate lighting intensity is needed, namely in accordance with predetermined lighting standards, so in designing the lighting of a room it must be carried out with full accuracy, among others in terms of lamp selection, calculation of the number of lamps needed and setting the condition of the lights in illuminating the room
+LPG Arun is one of the projects being worked on by PT
+Engineering
+One of the stages of the process is to design the intensity level of artificial lighting in the Electrical room building
+In designing artificial lighting, DIALux 4.10 software is used
+In this simulation, a more accurate design result is obtained because it can simulate in 3D
+Also obtained the value of the intensity of light and the number of lights needed in the lighting
+In this design the results are obtained where the artificial lighting design in each room is in accordance with the owner’s request standards.
+To solve the problem of storage and transmission of mobile learning resources for ideological and political courses, this paper analyzes the characteristics and current situation of the construction of mobile learning resources, and designs and develops a set of mobile teaching resource sharing system based on open source Android technology and C/S architecture
+The system adopts mature ASP.net with MySQL technology solution for development
+We also introduce HTML5 audio and video technology to form a knowledge map, and establish the mobile database model based on Agent
+After the practical application in the teaching test of Ideological and political course, the system runs well, which can meet the students' personalized and fragmented learning needs, and effectively complete the construction of the interaction process between teachers and students.
+We have previously reported that GPD-1116, an inhibitor of phosphodiesterase (PDE) 4, exhibits anti-inflammatory effects in a model of cigarette smoke-induced emphysema in senescence-accelerated P1 mice
+In the present study, we further characterized the pharmacological profile of GPD-1116 in several experiments in vitro and in vivo
+GPD-1116 and its metabolite GPD-1133 predominantly inhibited not only human PDE4, but also human PDE1 in vitro
+Moreover, GPD-1116 was effective in several disease models in animals, including acute lung injury, chronic obstructive pulmonary disease (COPD), asthma and pulmonary hypertension; the effective doses of GPD-1116 were estimated to be 0.3-2 mg/kg in these models
+With regard to undesirable effects known as class effects of PDE4 inhibitors, GPD-1116 showed suppression of gastric emptying in rats and induction of emesis in dogs, but showed no such suppression of rectal temperature in rats, and these side effects of GPD-1116 seemed to be less potent than those of roflumilast
+These results suggested that GPD-1116 could be a promising therapeutic agent for the treatment of inflammatory pulmonary diseases
+Furthermore, the inhibitory effects of GPD-1116 for PDE1 might be associated with its excellent pharmacological profile
+However, the mechanisms through which PDE1 inhibition contributes to these effects should be determined in future studies.
+O trabalho consiste em apresentar experiencias de homens que decidiram por um tratamento alternativo para curar a dependencia quimica por meio da ayahuasca em uma instituicao religiosa situada no sul do Brasil
+A partir dos relatos de experiencias buscou-se verificar como: estes homens compreendiam a relacao entre “estar doente” e “estar curado” e quais as motivacoes que sentiam para incorporarem as regras, as normas estabelecidas desta instituicao apos ter sido curado pela mesma
+Os resultados indicam que estes homens compreendem suas vidas sociais a partir da relacao entre “antes da cura” e “depois da cura”
+Conclui-se que o “antes da cura” e relatado por estes individuos como uma fase da vida que nao tinham consciencia em relacao as suas acoes sociais, portanto a participacao na instituicao apresentou-se como uma significativa garantia social por trata-los distintivamente, como exemplos de pessoas que superaram a dependencia quimica, e que podem viver uma “nova vida” social, pois atualmente consideram-se “conscientes” de suas escolhas diante do mundo contemporâneo.
+Current therapeutic regimens with first-line antitubercular agents are associated with a high rate of adverse effects which can lead to therapeutic failure
+Understanding the nature and the severity of these effects is important for treatment optimization
+The aim of present study was to investigate pyrazinamide potential effects on male rats DNA fragmentation, amino acid composition of bone type I collagen, reproductive capability and their posterity antenatal and postnatal development
+Wistar albino male rats (160-200 g b.w.) were divided into three groups: I--received pyrazinamide per os at a dose of 1000 mg/kg b.w./day, II--at a dose of 2000 mg/kg b.w./day, in both groups it was given for 60 days; III--control
+After 60 days of the experiment, rats of the experimental (groups I and II) and control groups were mated with intact virgin females
+The amino acids contents of male rat bone type I collagens were determined using amino acid analyzer, epididymis and testis DNA fragmentation--electrophoretically; posterity antenatal development indices and postnatal development--by standard procedures
+The study of pyrazinamide effects (administered in different doses) on males bone type I collagen amino acid contents and testis DNA fragmentation demonstrated the presence of dose-dependent pyrazinamide-mediated quantitative and qualitative changes in male rat reproductive organs DNA and extracellular matrix proteins in comparison with control
+Changes in nucleic acids and proteins structure were accompanied by alterations in processes of fertilization (with intact females), embryogenesis and by lowering of posterity survival.
+Acrolein-derived DNA adducts of guanine have previously been detected in tissues of several species, including humans, and have been shown to be mutagenic in mammalian cells and potentially carcinogenic in higher organisms
+In duplex DNA, the predominant acrolein-derived lesion, gamma-hydroxy-1,N2-propanodeoxyguanosine (gamma-HOPdG), exists in an equilibrated mixture of ring-opened and ring-closed forms
+We have previously shown that the acyclic form can undergo secondary chemical reactions to form both interstrand DNA-DNA cross-links in a CpG sequence context and DNA-protein and DNA-peptide cross-links
+Investigations using duplex DNAs containing gamma-HOPdG in a CpG sequence context reversibly created at least two cross-linked species: an imine, which is a minor species but could be readily reduced by NaBH4, and a major heat labile, nonreducible species that we formulate as a carbinolamine cross-link
+The DNA came to equilibrium over several days with the carbinolamine species being significantly more abundant than the reducible imine
+In an effort to find other types of DNA-DNA cross-links, we have developed a high throughput screen to evaluate the effects of DNA sequence and lesion structure on the formation of reducible interstrand and intrastrand cross-links
+These data reveal that four different lesions, two involving deoxyguanosine and two involving deoxyadenosine, can react with nearby bases to form inter- and intrastrand DNA cross-links.
+Abstract Optically stimulated luminescence (OSL) dating of quartz sand (106–150 or 150–200 μm) in bioclastic carbonate–quartz sediments sampled from coastal relict foredunes (beach ridges) was undertaken to evaluate the utility of the OSL method for studies of dune dynamics and to quantify rates of coastal progradation
+Twelve sediment samples from a 4 km transect across a Holocene embayment fill at Guichen Bay, South Australia, were measured for their luminescence characteristics
+Apart from one age inversion attributed to recent disturbance associated with mining, the OSL ages are in sequential order when considered in the context of their associated error terms
+The OSL ages indicate an extremely rapid initial phase of sedimentation (i.e. 1600 m within a few hundred years, approximately 5 ka ago) followed by a constant rate of progradation for the past 4 ka of 0.39 m/a, with a high level of association between distance across the embayment fill and luminescence age for this time interval
+An average rate of dune development of one dune every 80 yr from 3900 yr ago to the present day is apparent
+The OSL ages for the late Holocene indicate that the present beach state is largely in equilibrium with sediment supply.
+On the non-autoimmune C57BL/6 (B6) background, the chromosome 7-derived lupus susceptibility loci Sle3 and Sle5 have been shown to mediate an elevated CD4:CD8 ratio with an increase in activated CD4+ T cells, decreased susceptibility to apoptosis, and a break in humoral tolerance
+Development of subcongenic strains has subsequently shown that the elevated CD4:CD8 ratio is due to Sle3 but that both loci contribute to the development of autoantibodies
+To elucidate the functional expression patterns of these loci, adoptive transfer experiments were conducted
+All possible combinations of bone marrow reconstitution, including syngenic, were conducted between the congenic B6 and B6.Sle3/5 strains
+It was found that the Sle3/5 locus was functionally expressed by bone marrow-derived cells, but not by host cells, and that the elevated CD4:CD8 phenotype could be reconstituted in radiation chimeras
+Using Ly5-marked congenic strains and B6 host mice, additional experiments surprisingly demonstrated that the elevated CD4:CD8 ratio was neither an intrinsic property of the T cells nor of single positive thymocytes
+Allotype-marked chimeras indicated that autoantibody production by B cells was also an extrinsic property, as shown by the fact that B cells without the Sle3/5 interval contributed to autoantibody production
+These experiments strongly suggest that a gene within the B6.Sle3/5 interval was expressed by a bone marrow-derived, nonlymphocyte population in the thymus and periphery and was affecting T cell selection and/or survival.
+YbjN, encoding an enterobacteria-specific protein, is a multicopy suppressor of temperature sensitivity in the ts9 mutant strain of Escherichia coli
+In this study, we further explored the role(s) of ybjN
+First, we demonstrated that the ybjN transcript was about 10-fold lower in the ts9 strain compared to that of E. coli strain BW25113 (BW)
+Introduction of multiple copies of ybjN in the ts9 strain resulted in over-expression of ybjN by about 10-fold as compared to that of BW
+These results suggested that temperature sensitivity of the ts9 mutant of E. coli may be related to expression levels of ybjN
+Characterization of E. coli ybjN mutant revealed that ybjN mutation resulted in pleiotropic phenotypes, including increased motility, fimbriation (auto-aggregation), exopolysaccharide production, and biofilm formation
+In contrast, over-expression of ybjN (in terms of multiple copies) resulted in reduced motility, fimbriation, exopolysaccharide production, biofilm formation and acid resistance
+In addition, our results indicate that a ybjN-homolog gene from Erwinia amylovora, a plant enterobacterial pathogen, is functionally conserved with that of E. coli, suggesting similar evolution of the YbjN family proteins in enterobacteria
+A microarray study revealed that the expression level of ybjN was inversely correlated with the expression of flagellar, fimbrial and acid resistance genes
+Over-expression of ybjN significantly down-regulated genes involved in citric acid cycle, glycolysis, the glyoxylate shunt, oxidative phosphorylation, amino acid and nucleotide metabolism
+Furthermore, over-expression of ybjN up-regulated toxin-antitoxin modules, the SOS response pathway, cold shock and starvation induced transporter genes
+Collectively, these results suggest that YbjN may play important roles in regulating bacterial multicellular behavior, metabolism, and survival under stress conditions in E. coli
+These results also suggest that ybjN over-expression-related temperature rescue of the ts9 mutant may be due to down-regulation of metabolic activity and activation of stress response genes in the ts9 mutant.
+Study selection and assessment: randomised and quasirandomised controlled trials (RCTs) in any language that compared verbal or written dietary advice (delivered in person or by telephone to individuals or small groups for the purpose of reducing risk of chronic diseases) with no or minimal advice in healthy adults
+RCTs were required to have >3 months of follow up in >80% of participants, ,25% of participants with cardiovascular disease at enrolment, and (10% of participants taking lipid lowering drugs
+RCTs involving interventions in addition to dietary advice or diets for weight reduction were excluded.
+Classic polyarteritis nodosa(PAN) that targets mediumsized muscular arteries and microscopic polyangiitis(MPA),characterized by inflammation of small-caliber vessels and the presence of circulating myeloperoxidase anti-neutrophil cytoplasmic antibodies(MPO-ANCA),are distinct clinicopathological entities of systemic vasculitis.A 66-year-old woman presented with fever,cholestasis and positive MPO-ANCA.Radiological examination showed a pancreatic mass compressing the bile duct.Therefore,we performed pancreatoduodenectomy.Histopathological examination revealed that necrotizing vasculitis predominantly affecting the medium-sized vessels,spared arterioles or capillaries in the pancreas,a finding consistent with PAN.Unexpectedly,renal biopsy revealed small-caliber vasculitis and glomerulonephritis,supporting MPA.The initial manifestation of a pancreatic mass associated with vasculitis has only been reported in 7 articles.Its diagnosis is challenging because no reliable clinico-radiological findings have been observed.Clinicians should be aware of such cases and early diagnosis followed by immunosuppression is mandatory.Our findings may reflect a polyangiitis overlap syndrome coexisting between pancreatic PAN and renal MPA.
+This thesis explores the impacts of new transit infrastructure projects on the land use transportation system
+Land use and transportation systems are inherently interconnected and form an integrated system; and transport projects affect not just the transportation system, but also land use patterns
+Current evaluation frameworks and models applied to new transport infrastructure projects usually focus on transportation system improvements, and so do not reflect the process of land use transportation interaction
+To overcome this limitation, this thesis argues that the evaluation of transport projects should consider their accessibility and development impacts; and that this requires models which explicitly incorporate the interaction between land use and transportation
+The Circle Line in Chicago is a proposed circumferential rail transit line which will serve the urban core of the Chicago region, and is likely to significantly affect both land use and travel patterns
+This thesis assesses how existing models can be used to quantify the accessibility and development impacts of this project; and how an existing evaluation framework, developed by the Federal Transit Administration, considers these impacts
+In addition, this thesis develops a quasi-integrated land use transportation model for the Chicago region; and applies it to quantify the accessibility and development impacts of the Circle Line project
+The frameworks and models developed for the Circle Line project provide an example of how to improve the current FTA evaluation methodology
+Thesis Supervisor: P
+Christopher Zegras, Assistant Professor, Department of Urban Studies and Planning Thesis Supervisor: Mikel Murga, Research Associate, Department of Civil and Environmental Engineering The Accessibility and Development Impacts of New Transit Infrastructure: The Circle Line in Chicago
+Autorka referuje o způsobech přezkousených na brněnskem pracovisti VUPS
+Sledovana problematika je zaměřena na upravu procesu maceni jecmene, na zkraceni celkove doby sladovani obměnami fyzikalnich podminek upravou maceci vody, použitim stimulatorů a mechanických zasahů
+Podrobně bylo studovano zejmena obrusovani jecmene za použiti obrusovace typu OKM 80/150 domaci výroby.
+The study was conducted to determine the physiological responses of West African Dwarf (WAD) bucks fed Pennisetum purpureum (PP) and unripe plantain peels (UPP)
+Thirty 30 growingWAD bucks with average weight of 7.00 ± 0.55kg and aged between 8 and 9 months old, were allotted to three (3) dietary treatments (A, B and C) with ten bucks per treatment in a complete randomized design
+The compared diets were; A ( Pennisetum purpureum which served as control group), B (equal ratio of Pennisetum purpureum with unripe plantain peels) and C(unripe plantain peels)
+The results showed that parameters observed under thermophysiological, haematological and serum biochemical parameters were significantly (P<0.05) affected by dietary treatments with the exception of albumin and globulin
+PVC (30.02± 1.36%), Hb (10.02± 0.02 g/l), RBC (11.01 ± 0.46 x 10 6 /μl),MCH (9.85± 0.34 Pg), MCV (28.02± 0.58fl), MCHC (33.86± 0.39g/dl), total protein(7.20± 0.20 g/dl), triglyceride (10.59± 0.66 mg/dl) and urea (17.04± 0.02 mg/ dl) were significantly (P<0.05) highest in diet A while creatinine (1.95± 0.04 mg/dl) was ighest in diet B
+Rectal temperature (40.02 ± 0.02 0 C), respiratory rate (18.34± 0.21 breaths/min), pulse rate (89.01±0.41 beats /mins), heat stress index (1.09± 0.03), WBC (13.02±0.45 x 10 6 /μl) and cholesterol (66.88± 0.61mg/dl) were significantly (P<0.05) better in diet C
+It was concluded that equal ratio of Pennisetum purpureum and unripe plantain peels has the potential to improve physiological responses in WAD bucks
+Key words: Unripe plantain peels, thermophysiological responses, WAD bucks.
+Results are provided for a study of composite magnetic abrasive powders prepared by mechanical mixing of iron and abrasive powders in the presence of surfactants and glue epoxy resins
+It is shown that powder of composite composition exhibits polishing and microcutting properties
+Depending on iron content in the composite there is a linear reduction in degree of magnetization and induction
+The roughness value Ra achieved for steel 45 with HRC 44 – 46 is 0.09 – 0.12 μm.
+The Queensway folds are an anticline–syncline pair in layered limestone and shale of the Ottawa Formation in the Ottawa – St
+Lawrence Lowlands
+They are parallel, flexural-slip folds with horizontal axes trending northwest, parallel to the surface trace of the Gloucester fault.Five principal fracture subpatterns were recognized in the fold-pair, caused by at least four geometrically distinct stress fields
+The principal stress directions at failure for all five subpatterns coincided, moreover, with the three orthogonal fabric axes, and the maximum principal stress was either parallel or perpendicular to the fold axes and to the Gloucester fault.Slickenside striae on bedding and on fractures at an angle to bedding indicate two principal kinematic patterns in the fold-pair; the one arises from motion in the deformation plane as a consequence of the folding and the other from strike-slip motion perpendicular to that plane as a consequence of displacement on the Gloucester fault.Slickensides indicate that each bed was free to move relative to adjacent ones during folding and that the fundamental structural unit in flexural-slip folding is the bed
+Model studies support the field data and indicate that the sense and magnitude of interbed slip in any structural position is dependent upon an integral of conditions throughout the fold-pair and that the fundamental fold unit is the anticline–syncline pair.
+Development of space rocketry and cosmic instrument making has made it possible to create interplanetary stations to be sent to the solar system bodies
+In the last decade of the century the planet Mars will be in the focus of planetary science problems
+Russia, USA (the NASA) and Europe (the ESA) plan to do a new step in the study of the planetary system by spacecraft missions to Mars
+One part of the programs of these missions is Martian surface measurements of iron, which is a dominant element in both the Martian soil and rocks (about 13 percent by weight)
+The chemistry of iron in space is strongly coupled to the chemistry of abundant elements (to begin with hydrogen, carbon, oxygen) and it is this coupling of chemical cycles of abundant elements that gives us the possibility of understanding some features of the chemical evolution of matter
+In this connection of extremely great importance for the understanding of the evolution of the solar system are the oxidation state of the iron and its mineral composition of the Mars surface
+Being highly successful, the Viking landers had no instrumentation to answer these questions
+Such instrumentation has to be specifically sensitive to mineralogy
+For this purpose the back scattering Moessbauer spectrometer (MS-96) was proposed to be installed on a rover to be launched on board the Russian spacecraft Mars-96 mission to Mars
+Due to power and mass restrictions three systems of the device MS-96 (velocity transducer, detector and electronic components) have been extremely miniaturized in comparison to a standard system
+In this paper we intend to place for consideration a radioactive source to find out what characteristics it should have to be suitable for purposes of the experiment.
+The enhanced high gain harmonic generation (EHGHG) scheme has been proposed and shown to be able to significantly enhance the performance of HGHG FEL
+In this paper we investigate the EHGHG scheme with negative dispersion
+The bunching factor at the entrance of the radiator is analyzed, which indicates that the scheme with negative dispersion can further weaken the negative effect of the dispersive strength on the energy spread correction factor
+The numerical results from GENESIS (3D-code) are presented, and are in good agreement with our analysis
+Then we comparatively study the effects of the initial beam energy spread and the relative phase shift on the radiation power
+The results show that the EHGHG scheme with negative dispersion has a larger tolerance on the initial beam energy spread and a nearly equal wide good region of the relative phase shift compared with the case of positive dispersion.
+La presente invention concerne un procede de regulation d'une emission de puissance sans fil dans un systeme d'emission de puissance sans fil a resonance, un appareil d'emission de puissance sans fil l'utilisant, et un appareil de reception de puissance sans fil l'utilisant
+Le procede comporte les etapes consistant a: recevoir un signal de demarrage en provenance de l'appareil de reception de puissance sans fil; et activer le bloc de puissance qui a ete desactive et envoyer un signal d'emission de puissance sans fil a l'appareil de reception de puissance sans fil via une bobine d'emission de l'appareil d'emission de puissance sans fil suite a la reception du signal de demarrage.
+This essay details my experience in developing and teaching a course concerning the history of the National Park Service for students enrolled in Temple University’s ProRanger Program
+I offer this account as a pedagogical case study, but also as evidence that educational partnerships between the agency and college classrooms can help us imagine new possibilities for both
+Most significant, for the NPS, is the possibility of grooming a new generation of agency advocates at a time when it—and we—need them most.
+Abstract Following landscape change, species invasions and extinctions may lead to biotic homogenisation, resulting in increased taxonomic and functional similarity between previously distinct biotas
+Biotic homogenisation is more likely to occur in landscapes where the matrix contrasts strongly with native vegetation patches
+To test this, we examined the distribution of ground-active beetles in a landscape of remnant Eucalyptus open woodland patches where large areas of lower contrast matrix (farmland) are being transformed to high-contrast pine plantations in south-eastern Australia
+We sampled beetles from 30 sites including six replicates of five categories; (1) remnants adjacent to farmland, (2) remnants adjacent to plantation, (3) farmland, (4) plantation, and, (5) remnants between pine plantation and farmland
+Community composition in the pine matrix was similar to native patches embedded in pine (ANOSIM, Global R  = 0.49, P F  = 9.049, df = 25, P F  = 5.875, df = 25, P  = 0.002), even compared to native remnant patches
+Our results suggest that matrix transformations can reduce species richness and homogenise within-patch populations
+This may increase the risk of species declines in fragmented landscapes where plantations are not only replacing native vegetation patches, but also other matrix types that may better support biodiversity
+Our findings are particularly concerning given expanding plantation establishment worldwide.
+In many near surface geophysical applications it is now common praxis to collect co-located disparate geophysical data sets
+The advantage of such multi-method based exploration strategies lies in its potential to reduce ambiguities and uncertainties in data analysis and interpretation
+To reconstruct the physical parameter distributions underlying geophysical data requires in many cases the application of tomographic reconstruction techniques
+To improve the reliability of tomographically reconstructed physical parameter models, the information content of all co-located data sets should be considered during the model-generation process
+Here, we apply a novel approach based on fuzzy c-means cluster analysis and conventional single-input data set inversion algorithms for the cooperative inversion of crosshole seismic P-wave and S-wave traveltimes
+The approach results in a single zoned two-parameter model outlining the major subsurface units and provides additionally P-wave and S-wave velocity fields.
+For Sydney’s eighteenth biennale, curators Catherine de Zegher and Gerald McMaster have proposed the theme “All Our Relations,” imagining the world as a complex, “breathing organism”—a cybernetic aggregation of specialized components meant to work in concert
+This preview suggests that the biennale will promote art that encourages empathic relations with audiences and will seek to provide a trans-national focus via the work of global indigenous artists.
+Prediksi harga saham adalah suatu proses menganalisis dan menentukan harga suatu saham di masa yang akan datang
+Dengan analisis teknikal, prediksi harga saham di masa datang ditentukan dari pembelajaran pola fluktuasi harga saham tersebut di masa lampau
+Pada penelitian ini, akan diteliti keakuratan tiga algoritma Neural Network yang sering digunakan dalam memprediksi harga saham, yaitu algoritma Backpropagation Network , algoritma Self organizing Maps Kohonen , dan algoritma Hybrid 
+Algoritma Hybrid adalah algoritma Neural Network hasil kombinasi dari algoritma Backpropagation Network dan algoritma Self Organizing Maps Kohonen yang diharapkan dapat memberikan keakuratan yang lebih tinggi dalam melakukan prediksi harga saham dibandingkan kedua algoritma lainnya
+Setiap algoritma melakukan proses prediksi saham dengan menggunakan data dari perusahaan Astra International Tbk., Gudang Garam Tbk., dan Telekomunikasi Tbk
+Kemudian untuk mengetahui keakuratan prediksi harga saham setiap algoritma, dilakukan pengujian dengan menggunakan data saham dari tanggal 1 Juli 2002 – 30 Juni 2003 untuk mendapatkan nilai kesalahan mutlak
+Data nilai kesalahan mutlak dianalisis dengan uji normalitas untuk mengetahui sifat distribusi data
+Hasil analisis normalitas digunakan untuk menguji hipotesis statistika
+Hasil dari penelitian ini membuktikan bahwa algoritma Hybrid dapat memberikan keakuratan prediksi harga saham yang lebih tinggi dibandingkan dengan algoritma Backpropagation Network maupun algoritma Self Organizing Maps Kohonen .
+In this paper, we first establish the Brunn-Minkowski type inequalities for the volume of the $L_p$ centroid body and its polar body with respect to the normalized $L_{p}$ radial addition
+Furthermore, we prove some properties for operator $\Gamma_{-p}$ and obtain some inequalities for it.
+STUDENTS AND THOSE WHO counsel them need to consider several factors in selecting a particular career from among the health professions
+The health-sciences professions, from jobs requiring little training at the entry level to those that require extensive training, are undergoing a rapid and exciting period of change
+Many of them are involved in self-assessment, recertification, relicensure, licensure, and expanded roles that are going to have considerable impact in most health delivery areas
+Factors contributing to this ferment include the following: (1) the increasing competition for entry into some training programs and later into the professions themselves; (2) the desire of professional organizations to maintain and improve standards; (3) the increasing state and federal government involvement in health delivery systems; (4) the expanded roles of many nonphysician health professionals; and (5) the growth of the team concept of health care delivery.
+Se ofrece una vision general sobre la situacion de la valoracion catastral rustica en Espana: problematica, marco legal, procedimiento tecnico, fiscalidad y consecuencias; lo que justifica la presentacion de una modelo de valoracion catastral alternativo ajustado a la legislacion vigente, flexible, agil, riguroso, administrativamente impecable y tecnicamente posible
+Se ha intentado automatizar la captura de los datos e informatizar los procesos masivos, sin dejar de lado la participacion de los tecnicos catastrales, con objeto de obtener un valor catastral que sea comprensible y util por los ciudadanos y administraciones implicadas.
+We present algorithms and calculation of dynamic characteristics that can be used in the synthesis problems of automatic control machining MLV
+The effect of distributed stiffness and inertia (mass) parameters on the dynamic phenomena of the machining process MLV.
+Voix de Peguy, echos, resonances Sous la direction de Jerome Roger Cet ouvrage collectif s’interesse a la pensee du langage et a l’ecriture hors-norme qui se manifeste dans l’œuvre de Charles Peguy
+Fruit du colloque international organise a Cerisy-la-Salle en 2014, il analyse cette anthropologie de la parole au service de la verite qui porte la signature de l’auteur
+This collective work examines Charles Peguy’s unconventional thoughts on language and writing
+The fruit of an international...
