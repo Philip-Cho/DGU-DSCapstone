@@ -8,9 +8,6 @@
     3. 제어판/시스템/고급시스템설정/환경변수/시스템변수/PATH exe 파일 경로 추가  
     참고자료: https://sound10000w.tistory.com/229  
 
-  - *aws cli*  
-    1. https://aws.amazon.com/ko/cli/ 32비트/64비트 다운로드, 설치   
-    2. terminal에서 "aws --version" 입력시 버전 출력되면 설치 완료
 
 - 데이터 다운로드(cd로 디렉토리 먼저 지정해주기!)
   1. 데이터 파일 목록(manifest.txt) 다운로드  
