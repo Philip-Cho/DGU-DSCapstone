@@ -1,0 +1,10 @@
+s2-corpus-000.gz
+s2-corpus-001.gz
+s2-corpus-002.gz
+s2-corpus-003.gz
+s2-corpus-004.gz
+s2-corpus-005.gz
+s2-corpus-006.gz
+s2-corpus-007.gz
+s2-corpus-008.gz
+s2-corpus-009.gz
