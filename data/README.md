@@ -1,12 +1,11 @@
 # Corpus data_open-research data
 과학분야 research abstract
 ### 1. 데이터 다운로드 
-- 필요 모듈 설치  
-  - wget(window)  
-    1. https://eternallybored.org/misc/wget/ 다운로드, 설치  
-    2. 다운받은 exe 파일을 C:/Windows/System32 폴더로 이동(관리자 권한 창 뜨면 "계속" 선택)  
-    3. 제어판/시스템/고급시스템설정/환경변수/시스템변수/PATH exe 파일 경로 추가  
-    참고자료: https://sound10000w.tistory.com/229  
+- 필요 모듈 설치 (wget(window))  
+  참고자료: https://sound10000w.tistory.com/229
+  1. https://eternallybored.org/misc/wget/ 다운로드, 설치  
+  2. 다운받은 exe 파일을 C:/Windows/System32 폴더로 이동(관리자 권한 창 뜨면 "계속" 선택)  
+  3. 제어판/시스템/고급시스템설정/환경변수/시스템변수/PATH exe 파일 경로 추가  
 
 
 - 데이터 다운로드(cd로 디렉토리 먼저 지정해주기!)
