@@ -18,4 +18,7 @@
   이전 스텝에서 받은 데이터 파일 목록(manifest.txt)에 있는 파일만 다운로드  
   총 6000파일, 약 170GB(압축 해제 후 약 350GB)
 
+### 2. 데이터 전처리
+- summarization_model/preprocessing_corpus.ipynb 파일 코드 실행
+
 # Summarization data
