@@ -21,6 +21,6 @@
 ### 2. 데이터 전처리
 - summarization_model/preprocessing_corpus.ipynb 파일 코드 실행
 - 구글 드라이브 업로드
-- 0~999: https://drive.google.com/file/d/1H0TF8RhQR_qIWKMBVUL9WEadCTwZvb8p/view?usp=sharing
+  - 0~999: https://drive.google.com/file/d/1H0TF8RhQR_qIWKMBVUL9WEadCTwZvb8p/view?usp=sharing
 
 # Summarization data
