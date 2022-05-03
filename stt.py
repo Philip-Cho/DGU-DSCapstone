@@ -1,12 +1,10 @@
-import sys
 import os, os.path
-import glob
 from google.cloud import storage
+from google.cloud import speech
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="C:/Users/심종수/Desktop/##############.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="C:/Users/심종수/Desktop/**********.json"
 
-
-
+# 스토리지 업로드
 def upload_blob_from_memory(bucket_name, contents, destination_blob_name):
     """Uploads a file to the bucket."""
 
@@ -23,17 +21,15 @@ def upload_blob_from_memory(bucket_name, contents, destination_blob_name):
     )
 
 
-from google.cloud import speech
-
-
-def transcribe_gcs(gcs_uri):
+# STT
+def transcribe_gcs(gcs_uri, content, sample_rate_hertz):
     client = speech.SpeechClient()
     audio = speech.RecognitionAudio(uri=gcs_uri)
     config = speech.RecognitionConfig(
         # wav 파일이므로 Linear16, Flac 파일은 FLAC
         encoding=speech.RecognitionConfig.AudioEncoding.FLAC,
         # hertz 16000, 44100(2개의 오디오 채널), Flac은 또 다르다.
-        sample_rate_hertz=48000,
+        sample_rate_hertz=sample_rate_hertz, # 48000
         language_code="en-US",
         audio_channel_count=2,
         enable_separate_recognition_per_channel=True,
