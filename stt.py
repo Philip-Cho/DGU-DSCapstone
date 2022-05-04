@@ -2,7 +2,7 @@ import os, os.path
 from google.cloud import storage
 from google.cloud import speech
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="C:/Users/심종수/Desktop/**********.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="C:/Users/심종수/Desktop/*********.json"
 
 # 스토리지 업로드
 def upload_blob_from_memory(bucket_name, contents, destination_blob_name):
