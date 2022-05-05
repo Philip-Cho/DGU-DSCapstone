@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.88.1">
-    <title>Jumbotron example · Bootstrap v5.1</title>
+    <title>카페인 수혈 결과물 페이지</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/jumbotron/">
 
@@ -50,11 +50,6 @@
             <h2> Lecture Name : {{movie_title}}  </h2>
             <iframe width="100%" height="500" src={{embed_url}} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </span>
-        <!--로딩바-->
-        <div id="loading" style="margin-left: 0px; display: none;">
-            <img src="https://studentrights.sen.go.kr/images/common/loading.gif">
-        </div>
-        <button id="button1" class="btn btn-primary btn-lg" onclick="down()" type="button">1. Download Lecture</button>
       </div>
     </div>
 
@@ -63,9 +58,11 @@
         <div class="h-100 p-5 text-white bg-dark rounded-3">
           <h2>강의 전문</h2>
           <div id="loading2" style="margin-left: 0px; display: none;">
-            <img src="https://studentrights.sen.go.kr/images/common/loading.gif">
+            <h4>강의 전문 추출중...</h4>
           </div>
-          <button id="button2" class="btn btn-outline-light" onclick="text()" type="button">2. 동영상  STT 추출</button>
+          <div id="textall" style="margin-left: 0px; display: none;">
+          </div>
+          <button id="button2" class="btn btn-outline-light" onclick="text()" type="button">1. 동영상  STT 추출</button>
           <script>
               function text() {
                   $('#loading2').show();
@@ -74,6 +71,9 @@
                       method: 'POST',
                   }).then(function (response) {
                       $('#loading2').hide();
+                      $('#textall').show();
+                      $('#textall').append(response['text_all']);
+                      $('#button2').hide();
                   });
               }
           </script>
@@ -84,10 +84,25 @@
         <div class="h-100 p-5 bg-light border rounded-3">
           <h2>강의 요약</h2>
           <div id="loading3" style="margin-left: 0px; display: none;">
-            <img src="https://studentrights.sen.go.kr/images/common/loading.gif">
+            <h4>강의 요약중...</h4>
           </div>
-          <p> {{sum_text}}</p>
-          <button id="button3" class="btn btn-outline-secondary" onclick="summary()" type="button">3. 요약본 추출</button>
+          <div id="sumall" style="margin-left: 0px; display: none;">
+          </div>
+          <button id="button3" class="btn btn-outline-secondary" onclick="summary()" type="button">2. 요약본 추출</button>
+          <script>
+              function summary() {
+                  $('#loading3').show();
+                  $.ajax({
+                      url: 'http://{{ip}}:8888/summary',
+                      method: 'POST',
+                  }).then(function (response) {
+                      $('#loading3').hide();
+                      $('#sumall').show();
+                      $('#sumall').append(response['sum_text']);
+                      $('#button3').hide();
+                  });
+              }
+          </script>
         </div>
       </div>
     </div>
@@ -100,18 +115,19 @@
   </body>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script>
-    function down() {
-        $('#loading').show();
-        $.ajax({
-            url: 'http://{{ip}}:8888/down',
-            method: 'POST',
-        }).then(function (response) {
-            $('#loading').hide();
-            alert(response)
-        });
-    }
-</script>
+<!--<script>-->
+<!--    function down() {-->
+<!--        $('#loading').show();-->
+<!--        $.ajax({-->
+<!--            url: 'http://{{ip}}:8888/down',-->
+<!--            method: 'POST',-->
+<!--        }).then(function (response) {-->
+<!--            $('#loading').hide();-->
+<!--            $('#button1').hide();-->
+<!--            alert(response)-->
+<!--        });-->
+<!--    }-->
+<!--</script>-->
 
 <!--<script>-->
 <!--    function text() {-->
@@ -126,16 +142,16 @@
 <!--    }-->
 <!--</script>-->
 
-<script>
-    function summary() {
-        $('#loading3').show();
-        $.ajax({
-            url: 'http://{{ip}}:8888/summary',
-            method: 'POST',
-        }).then(function (response) {
-            $('#loading3').hide();
-          response.show()
-        });
-    }
-</script>
+<!--<script>-->
+<!--    function summary() {-->
+<!--        $('#loading3').show();-->
+<!--        $.ajax({-->
+<!--            url: 'http://{{ip}}:8888/summary',-->
+<!--            method: 'POST',-->
+<!--        }).then(function (response) {-->
+<!--            $('#loading3').hide();-->
+<!--          response.show()-->
+<!--        });-->
+<!--    }-->
+<!--</script>-->
 </html>
