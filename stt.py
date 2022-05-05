@@ -2,7 +2,7 @@ import os, os.path
 from google.cloud import storage
 from google.cloud import speech
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="C:/Users/심종수/Desktop/*********.json"
+# os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="C:/Users/심종수/Desktop/*********.json"
 
 # 스토리지 업로드
 def upload_blob_from_memory(bucket_name, contents, destination_blob_name):
@@ -23,6 +23,7 @@ def upload_blob_from_memory(bucket_name, contents, destination_blob_name):
 
 # STT
 def transcribe_gcs(gcs_uri, content, sample_rate_hertz):
+    print("STT 시작")
     client = speech.SpeechClient()
     audio = speech.RecognitionAudio(uri=gcs_uri)
     config = speech.RecognitionConfig(
@@ -58,5 +59,6 @@ def transcribe_gcs(gcs_uri, content, sample_rate_hertz):
     f = open('{}.txt'.format(text_file), 'w')
     f.write(text_2)
     f.close()
+    print("STT 완료")
 
     return text_2
