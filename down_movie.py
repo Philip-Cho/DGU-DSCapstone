@@ -20,7 +20,8 @@ def downYoutubeMp3(url):
     with youtube_dl.YoutubeDL(ydl_opts) as ydl:
         ydl.download([url])
 
-    print("동영상 추출완료")
+    print("동영상 추출")
+    print("음성 추출")
     yt_title = '%(title)s'
     return yt_title
 
@@ -30,5 +31,5 @@ def down_title(url):
 
     # # 특정영상 다운로드 - mp4인데 오디오만 다운받음.
     # yt.streams.filter(only_audio=False).first().download('/yt')
-    print("동영상 제목추출완료")
+    print("강의 영상 제목추출")
     return yt.title

@@ -89,7 +89,6 @@ def summary():
         # 모델 로드
         model = load_model()
         models.append(model)
-        print("모델 로드 완료")
         # 요약문 생성
         sum_text = summary_text(text_alls[0], models[0])
         print(sum_text)
