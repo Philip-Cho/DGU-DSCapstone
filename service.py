@@ -13,7 +13,7 @@ movie_titles = list()
 myips = list()
 text_alls = list()
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="C:/Users/심종수/Desktop/dgu-dscapstone-ed2d8680c868.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="C:/Users/심종수/Desktop/************.json"
 
 @app.route('/')
 def home():
