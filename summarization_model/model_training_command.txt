@@ -17,11 +17,27 @@ python transformers/examples/pytorch/language_modeling/run_mlm.py
 
 BART finetuning(run_summarization.py) script 실행
 python ./transformers/examples/pytorch/summarization/run_summarization.py
---model_name_or_path PATH --tokenizer_name PATH --do_train --do_eval --train_file PATH(csv/jsonl) --validation_split_percentage 10 --output_dir PATH --num_train_epochs 3 --per_gpu_train_batch_size 16 --per_gpu_eval_batch_size 16 --save_steps 50000 --overwrite_output_dir true --evaluate_during_training
-
-
+--model_name_or_path PATH 
+--tokenizer_name PATH 
+--train_file PATH(csv/json) 
+--validation_file PATH 
+--text_column "source"
+--summary_column "target"
+--output_dir PATH 
+--num_train_epochs 3 
+--per_gpu_train_batch_size 16 
+--per_gpu_eval_batch_size 16 
+--do_train 
+--do_eval 
+--save_steps 50000
+--overwrite_output_dir=true
+--preprocessing_num_workers 8
 
 
 2. example
 
 python ./transformers/examples/pytorch/language-modeling/run_mlm.py --model_type bart --train_file "C:/Users/lynn1/OneDrive/바탕 화면/Capstone_1/data/open_research/separate_sents(0~99).txt" --validation_split_percentage 10 --tokenizer_name ./output/tokenizer --per_device_train_batch_size 1 --per_device_eval_batch_size 1 --do_train --do_eval --output_dir ./output/bart_pretrain --save_steps 500000 --preprocessing_num_workers 8 --max_seq_length 1024 
+
+python /home/irteam/2017111707-dcloud-dir/transformers/examples/pytorch/summarization/run_summarization.py --model_name_or_path facebook/bart-base --tokenizer_name /home/irteam/2017111707-dcloud-dir/output/tokenizer/ --do_train --do_eval --train_file /home/irteam/2017111707-dcloud-dir/data/SCITLDR/scitldr_train.csv --validation_file /home/irteam/2017111707-dcloud-dir/data/SCITLDR/scitldr_dev.csv --text_column 'source' --summary_column 'target' --output_dir /home/irteam/2017111707-dcloud-dir/output/finetuning --num_train_epochs 3 --per_gpu_train_batch_size 4 --per_gpu_eval_batch_size 4 --save_steps 50000 --overwrite_output_dir true --preprocessing_num_workers 8
+
+python /home/irteam/2017111707-dcloud-dir/transformers/examples/pytorch/summarization/run_summarization.py --model_name_or_path facebook/bart-base --tokenizer_name /home/irteam/2017111707-dcloud-dir/output/tokenizer/ --do_train --do_eval --dataset_name cnn_dailymail --output_dir /home/irteam/2017111707-dcloud-dir/output/finetuning --num_train_epochs 3 --per_device_train_batch_size 8 --per_device_eval_batch_size 8 --save_steps 50000 --overwrite_output_dir=true --preprocessing_num_workers 8 --dataset_config "3.0.0"
