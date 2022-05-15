@@ -1,0 +1,89 @@
+[MUSIC]
+
+Hi, my name is Megan, and
+I'm a teacher at Treehouse.
+
+When it comes to laying out your code,
+there are a lot of pitfalls
+
+a developer can fall into,
+especially when new to programming.
+
+Repeating code,
+code that is disorganized or
+
+hard to follow, and
+over complicating are a few examples.
+
+It's important to keep in mind
+how your code is structured.
+
+Both the overall file
+structure of your project, and
+
+the code inside of each file too.
+
+Keeping this in mind will make your code
+easier to read and easier to maintain.
+
+To help you avoid these pitfalls and
+improve your coding skills,
+
+I'm gonna walk you through a few
+of my favorite strategies.
+
+They are narrative flow,
+iterative coding, KISS, and DRY.
+
+Narrative flow involves writing your
+code as if someone were reading
+
+a story of how the program will work.
+
+Iterative coding is a process where you
+code a small piece of your project,
+
+then test it, then code the next piece and
+test it, and so on, and so forth.
+
+KISS or keep it simple silly,
+
+is a popular acronym to remember
+that simple is usually better.
+
+And lastly, DRY, or don't repeat
+yourself is another popular acronym,
+
+reminding you to keep your code
+free of repeats whenever possible.
+
+We're going to dive into each
+of these strategies in more
+
+detail throughout this workshop.
+
+All of these methods can be
+implemented while you're coding.
+
+Doing the hard work up front will save
+you a bunch of time in the long run.
+
+You can also implement these
+strategies on a completed project.
+
+This is called refactoring.
+
+[SOUND] Refactoring is the process
+by which you improve existing code.
+
+This is a great way to
+review your past work.
+
+Make sure it's updated to any new
+standards or language updates,
+
+add any new features, or
+practice new skills you've learned.
+
+Let's get into it.
+
