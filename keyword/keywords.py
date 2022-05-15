@@ -3,6 +3,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
 from sklearn.preprocessing import normalize
 
+kw_model = KeyBERT('all-MiniLM-L12-v2')
+
 # 2) Preprocess the sentences
 def preprocess_sents(sentences, stop_words):
     sents_after=[]   # stop_words 제거, lower()한 list of sentences
@@ -83,10 +85,10 @@ def keysents_blank(keywords:list, keysents:list):
     
     keysent_blank = keysent.replace(keyword_keysent, '__________')
     
-    return {'keywords':keywords, 'sentence_blank':keysent_blank, 'sentence':keysent, 'answer':keyword_keysent}
-
-
-def key_question(script_path='scripts_for_stopwords/075-Clustering algorithms.flac.txt'):
+    return {'sentence_blank':keysent_blank, 'sentence':keysent, 'answer':keyword_keysent}
+    
+    
+def key_question(script_path, weighted_keywords=False):
     sent_ngram = 2
     stopwords_path = 'stop_words_english.txt'
     script_path = script_path    
@@ -112,12 +114,12 @@ def key_question(script_path='scripts_for_stopwords/075-Clustering algorithms.fl
     keysents = get_keysents(sorted_sent_idx, sentences, sent_num=10)
     
     
-        
-    kw_model = KeyBERT('all-MiniLM-L12-v2')
-    keywords_weight = get_keywords(text, kw_model, 10, stop_words)
+    keywords_weight = get_keywords(text, kw_model, 10, stop_words)  
     keywords = [word_tup[0] for word_tup in keywords_weight]
     
-    
-    return keysents_blank(keywords, keysents)
+    if weighted_keywords:
+        return keywords_weight
+    else:
+        return keysents_blank(keywords, keysents)
 
-key_question(script_path='scripts_for_stopwords/sample_script.txt')
+key_question('scripts_for_stopwords/sample_script.txt')
